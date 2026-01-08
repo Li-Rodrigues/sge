@@ -16,12 +16,13 @@
 ### 🛠 Tecnologias Utilizadas (Used Technologies on this project):
 
 * 🔹 **Bootstrap** (Frontend UI)
-* 🔹 **HTML5** (Estrutura)
-* 🔹 **CSS3** (Estilização)
-* 🔹 **JavaScript** (Interatividade)
-* 🔹 **Python** (Linguagem Principal)
+* 🔹 **HTML5** (Estrutura - Structure)
+* 🔹 **CSS3** (Estilização - Style)
+* 🔹 **JavaScript** (Interatividade - Interactivity)
+* 🔹 **Python** (Linguagem Principal - Main language)
 * 🔹 **Django** (Framework Web)
-* 🔹 **SQLite** (Banco de Dados)
+* 🔹 **PostgreSQL** (Banco de Dados - Database)
+* 🔹 **Docker** (Container)
 
 ---
 
